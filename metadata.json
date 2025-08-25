@@ -1,0 +1,5 @@
+{
+  "name": "AI Lecture Companion",
+  "description": "An AI-powered tool to transform lecture transcripts, notes, or slides into concise summaries, concept maps, quizzes, and flashcards for effective learning.",
+  "requestFramePermissions": []
+}
